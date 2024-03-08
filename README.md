@@ -50,9 +50,9 @@
 
 <p align="left">In  this repository you can find some of mine developed files</p>
 
+<!--
 <p align="left">...work in progress...</p>
 <br />
-<!--
 ![Screenshot](Icons/Vindlast-Norge_logo_150x121.png)
 -->
 
