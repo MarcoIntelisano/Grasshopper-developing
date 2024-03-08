@@ -40,7 +40,9 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="Icons/Vindlast-Norge_logo_150x121.png" alt="Logo" height="100">
+    <img src="imgs/Logo_Python.png" alt="Logo" height="100">
+    <img src="imgs/rhino-grasshopper-plugin.png" alt="Logo" height="100">
+    <img src="imgs/Logo_C_sharp.png" alt="Logo" height="100">
   </a>
 
 <h3 align="center"># Grasshopper-developing 🦗</h3>
