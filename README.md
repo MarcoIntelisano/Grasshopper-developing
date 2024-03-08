@@ -39,18 +39,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
     <img src="imgs/Logo_Python.png" alt="Logo" height="100">
     <img src="imgs/rhino-grasshopper-plugin.png" alt="Logo" height="100">
     <img src="imgs/Logo_C_sharp.png" alt="Logo" height="100">
-  </a>
-
 <h3 align="center"># Grasshopper-developing 🦗</h3>
 </div>
 <br/>
 </div>
 
-<p align="left">In  this repository you can find some of mine developed files</p>
+<p align="left">In this repository you can find some of mine developed files</p>
 
 <!--
 <p align="left">...work in progress...</p>
