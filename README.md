@@ -43,7 +43,7 @@
     <img src="Icons/Vindlast-Norge_logo_150x121.png" alt="Logo" height="100">
   </a>
 
-<h3 align="center">Vindlast iht. NS-EN 1991-1-4</h3>
+<h3 align="center"># Grasshopper-developing 🦗</h3>
 </div>
 <br />
 </div>
@@ -65,6 +65,4 @@
 <!-- CONTACT -->
 ## Contact
 
-Roger Ebeltoft - [LinkedIn](https://www.linkedin.com/in/roger-ebeltoft-b194492/) - roger.ebeltoft@sweco.no
-<br />
 Marco Intelisano - [LinkedIn](https://www.linkedin.com/in/engineermarcointelisano/) - marco.intelisano@sweco.no
