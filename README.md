@@ -1,8 +1,3 @@
-<!--
-# Grasshopper-developing 🦗
--->
-<!-- PROJECT LOGO -->
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -47,30 +42,13 @@
 <br/>
 </div>
 
-<p align="left">In this repository you can find some of mine developed files</p>
-
-<!--
-<p align="left">...work in progress...</p>
-<br />
-![Screenshot](Icons/Vindlast-Norge_logo_150x121.png)
--->
+<p align="left">In this repository you can find some of mine developed files.</p>
+<br/>
 
 
 
-
-
-
-
-
-###
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<!-- Language and tools -->
+## 🛠   My Language and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -80,26 +58,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+<br/>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcoIntelisano&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcoIntelisano.MarcoIntelisano&"  />
-</div>
 
 
 
 <!-- CONTACT -->
-## Contact
+## 🌐   Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/engineermarcointelisano/" target="_blank">
@@ -118,6 +83,18 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
+<br/>
 
 
+<!-- Stats -->
+## 🔥   My Stats :
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MarcoIntelisano&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcoIntelisano.MarcoIntelisano&"  />
+</div>
 
